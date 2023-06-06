@@ -1,0 +1,13 @@
+The log of the game is as follows:
+
+ - 20:39:59 - 
+zeke attacked Ai:13, 25 damage.
+Ai:13's remaining health: 75 points.
+zeke gained 25 experience.
+Ai:13 gained 30.0 experience.
+ - 20:39:59 - 
+Ai:13 attacked zeke, dealing 8 damage.
+zeke's remaining Health: 92 points.
+Ai:13 gained 38.0 experience.
+zeke gained 33 experience.
+ - 20:40:02 - User Unit 2 does not have enough level to heal.

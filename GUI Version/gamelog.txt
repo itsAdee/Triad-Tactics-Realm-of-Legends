@@ -1,0 +1,67 @@
+The Log of the game is as follows: 
+The game has started at 23/02/2023 08:55:08
+Adeel attacked Ai:19 for 75 damage!
+Ai:19 has 25 health left!
+Ai:19 has 12.0 experience points!
+Ai:19 is rank 1!
+Adeel has 75 experience points!
+Adeel is rank 1!
+Ai:95 attacked Adeel for 45 damage!
+Adeel has 57 health left!
+Adeel has 78.6 experience points!
+Adeel is rank 1!
+Ai:95 has 43 experience points!
+Ai:95 is rank 1!
+Ahmed attacked Ai:19 for 61 damage!
+Ai:19 has -36 health left!
+Ai:19 has 24.0 experience points!
+Ai:19 is rank 1!
+Ahmed has 61 experience points!
+Ahmed is rank 1!
+Ai:19 has died!
+Ai:95 attacked Ahmed for 45 damage!
+Ahmed has 60 health left!
+Ahmed has 67.0 experience points!
+Ahmed is rank 1!
+Ai:95 has 83 experience points!
+Ai:95 is rank 1!
+Goro attacked Ai:87 for 73 damage!
+Ai:87 has 27 health left!
+Ai:87 has 8.4 experience points!
+Ai:87 is rank 1!
+Goro has 73 experience points!
+Goro is rank 1!
+Ai:95 attacked Goro for 45 damage!
+Goro has 68 health left!
+Goro has 85.0 experience points!
+Goro is rank 1!
+Ai:95 has 15 experience points!
+Ai:95 is rank 2!
+Ai:19 is already dead! so he cannot be attacked!
+Ahmed attacked Ai:87 for 68 damage!
+Ai:87 has -41 health left!
+Ai:87 has 16.8 experience points!
+Ai:87 is rank 1!
+Ahmed has 35.0 experience points!
+Ahmed is rank 2!
+Ai:87 has died!
+Ai:95 attacked Goro for 45 damage!
+Goro has 29 health left!
+Goro has 97.0 experience points!
+Goro is rank 1!
+Ai:95 has 54 experience points!
+Ai:95 is rank 2!
+Adeel attacked Ai:95 for 63 damage!
+Ai:95 has 37 health left!
+Ai:95 has 64.8 experience points!
+Ai:95 is rank 2!
+Adeel has 41.599999999999994 experience points!
+Adeel is rank 2!
+Ai:95 attacked Ahmed for 45 damage!
+Ahmed has 12 health left!
+Ahmed has 41.0 experience points!
+Ahmed is rank 2!
+Ai:95 has 12.799999999999997 experience points!
+Ai:95 is rank 3!
+Player has won the game!
+Game ended at 23/02/2023 08:55:32
